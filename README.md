@@ -153,10 +153,4 @@ campusfixit/
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of Login, Dashboard, Create Issue, and Admin View here)*
 
----
-
-**Submitted by:** [Your Name]
-**Date:** [Date]
